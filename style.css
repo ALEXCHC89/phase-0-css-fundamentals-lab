@@ -1,5 +1,27 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+}
+header {
+  text-align: center;
+} 
+nav a {
+  padding: 0px 10px 0px 10px;
+  background-color: rgb(177, 174, 174);
+}
+#featured-property {
+  font-size: 17px;
+  text-align: center;
+  margin: 0 auto;
+  width: 750px;
+}
+img {
+  width: 100%;
+}
+footer {
+  width: 379px;
+  float: left;
+  background-color: red;
+  text-align: center;
+  font-weight: bold;
 }
